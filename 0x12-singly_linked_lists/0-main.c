@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <stdlib.h>
+=======
+include <stdlib.h>
+>>>>>>> fce83b7e0eb3868bf5b74fb0b116d6e48043ad43
 #include <string.h>
 #include <stdio.h>
 #include "lists.h"
